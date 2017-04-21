@@ -2,7 +2,7 @@ import axios from 'axios'
 
 function CompanyDBApi () {
   var config = {
-    apiBaseUrl: 'http://localhost:8888/api/'
+    apiBaseUrl: 'https://serene-basin-92125.herokuapp.com/api/'
   }
 
   var headers = {}
